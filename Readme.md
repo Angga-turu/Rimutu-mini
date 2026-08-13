@@ -1,16 +1,16 @@
 <div align="center">
 
-## Knight Bot Mini
+## Rimuru Mini
 
-[![Made with Baileys](https://img.shields.io/badge/Made%20with-Baileys-00bcd4?style=for-the-badge)](https://github.com/WhiskeySockets/Baileys)
+[![Made with Baileys](https://img.shields.io/badge/Made%20with-Baileys-00bcd4?style=for-the-badge)](https://github.com/Angga-uru/Baileys)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-<img src="utils/bot_image.jpg" alt="Knight Bot" width="260">
+<img src="utils/bot_image.jpg" alt="Rimuru Mini" width="260">
 
 </div>
 
-Knight Bot Mini is a WhatsApp MD bot built on top of the **Baileys** library.  
+Rimuru Mini is a WhatsApp MD bot built on top of the **Baileys** library.  
 It’s designed to be fast, lightweight, and easy to customize without touching the core code.  
 This project is **fully open source** — you can modify it, rebrand it, and make your **own bot** from this codebase **free of cost**, without needing any permission from our side.  
 All commands and the overall structure are written in a way that makes customization (bot image, prefix, name, features, etc.) as easy as possible.
@@ -32,7 +32,7 @@ All commands and the overall structure are written in a way that makes customiza
 
 <div align="center">
 
-<a href="https://github.com/mruniquehacker/Knightbot-MD/fork" target="_blank">
+<a href="https://github.com/Angga-bot/Rimuru-mini" target="_blank">
   <img src="https://img.shields.io/badge/Fork%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fork on GitHub">
 </a>
 
@@ -91,8 +91,8 @@ For a full step‑by‑step deployment tutorial (panels / VPS / Heroku), add or 
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/mruniquehacker/Knightbot-MD.git
-cd Knightbot-MD
+git clone https://github.com/Angga-turu/Rimuru-mini.git
+cd Rimuru-mini
 ```
 
 ### 2️⃣ Install dependencies
@@ -108,7 +108,7 @@ Edit `config.js`:
 - **Option A: Use session string**
 
   ```js
-  sessionID: 'KnightBot!H4.....'
+  sessionID: 'RimuruMini!H4.....'
   ```
 
 - **Option B: Scan QR**
